@@ -54,7 +54,7 @@ const CONTRACT_SYMBOL = 'OPZ';
 const METADATA_UPDATABLE = true; // set to false if you don't want to allow metadata updates after minting
 const OWNER_ADDRESS = '0xc1Dc3547c41D1C2f30EDEaF21Bb3F3B5bF512EF6';
 const TREASURY_ADDRESS = '0xc1Dc3547c41D1C2f30EDEaF21Bb3F3B5bF512EF6';
-const MAX_SUPPLY = 5000; // The maximum number of NFTs that can be minted. CANNOT BE UPDATED!
+const MAX_SUPPLY = 20; // The maximum number of NFTs that can be minted. CANNOT BE UPDATED!
 const MINT_PRICE = 0.001; // Minting price per NFT. Rinkeby = ETH, Polygon = MATIC. CANNOT BE UPDATED!
 const TOKENS_PER_MINT = 10; // maximum number of NFTs a user can mint in a single transaction. CANNOT BE UPDATED!
 
